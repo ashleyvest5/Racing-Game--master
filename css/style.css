@@ -24,6 +24,7 @@ h1 {
   line-height: 160px;
 }
 
+/*if the button doesn't do anything you could remove it */
 button {
   margin-top: 50px;
   background-color: gray;
